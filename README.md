@@ -72,3 +72,20 @@ HouseArch is designed to enhance the efficiency of EHR documentation by transcri
     The script will output the generated EHR entries based on the input query and context.
 
 ## Directory Structure
+
+HouseArch/
+├── data/
+│   ├── pubmed/
+│   │   └── files/
+│   └── output/
+├── src/
+│   ├── main.py
+│   └── utils.py
+├── .env
+├── requirements.txt
+└── README.md
+
+## Contributing
+We welcome contributions to HouseArch! Please fork the repository and create a pull request with your changes. Ensure your code adheres to the project's coding standards and includes appropriate tests.
+
+---
